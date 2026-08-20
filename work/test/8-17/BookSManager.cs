@@ -24,7 +24,7 @@ namespace ConsoleAppTest8_17
 
         }
 
-        
+
         //图书添加
         public string BookAdd(Dictionary<string, dynamic> bookdic)
         {
@@ -39,15 +39,15 @@ namespace ConsoleAppTest8_17
 
                     if (bookList.Count != 0)
                     {
-                        if (bookList.Find(item =>item["图书名称"].ToString() == bookdic["图书名称"])!=null )
+                        if (bookList.Find(item => item["图书名称"].ToString() == bookdic["图书名称"]) != null)
                         {
                             return "该图书已存在！！";
                         }
                     }
 
-                    
+
                 }
-                
+
 
             }
             bookList.Add(bookdic);
@@ -63,29 +63,30 @@ namespace ConsoleAppTest8_17
         {
             if (File.Exists(Path))
             {
-                
+
                 var JsonStr = File.ReadAllText(Path);
-                if (!string.IsNullOrEmpty(JsonStr) && !string.IsNullOrWhiteSpace(JsonStr)) {
+                if (!string.IsNullOrEmpty(JsonStr) && !string.IsNullOrWhiteSpace(JsonStr))
+                {
                     var newJsonStr = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(JsonStr);
 
                     Console.WriteLine("目前所有图书有：");
                     foreach (var item in newJsonStr)
                     {
-                        Console.WriteLine("图书名称: " + item["图书名称"].ToString()+" -- "+ "作者: " + item["作者"].ToString() + " -- " + "图书类型: " + item["图书类型"].ToString() + " -- " + "图书价格: " + item["图书价格"].ToString());
+                        Console.WriteLine("图书名称: " + item["图书名称"].ToString() + " -- " + "作者: " + item["作者"].ToString() + " -- " + "图书类型: " + item["图书类型"].ToString() + " -- " + "图书价格: " + item["图书价格"].ToString());
                         //foreach (var key in item)
                         //{
                         //    Console.WriteLine(key);
                         //}
                     }
-                    if (newJsonStr.Count==0)
+                    if (newJsonStr.Count == 0)
                     {
                         Console.WriteLine("图书仓库为空（目前没有任何图书，请添加）");
                     }
                     return "以上是所有图书";
                 }
-                    
-                
-                
+
+
+
 
             }
             return "图书仓库为空（目前没有任何图书，请添加）";
@@ -93,7 +94,6 @@ namespace ConsoleAppTest8_17
         }
 
         //按名字查找图书
-
         public string BookNameSelect(string selectBookName)
         {
             if (File.Exists(Path))
@@ -144,11 +144,11 @@ namespace ConsoleAppTest8_17
                             var newJsonStr1 = JsonSerializer.Serialize(newJsonStr, JsonOpt);
                             File.WriteAllText(Path, newJsonStr1);
 
-                            return "删除成功"+ item["图书名称"].ToString();
+                            return "删除成功" + item["图书名称"].ToString();
 
                         }
                     }
-                    
+
                 }
             }
 
@@ -170,31 +170,41 @@ namespace ConsoleAppTest8_17
                     {
                         if (WritebookName == item["图书名称"].ToString())
                         {
-                            
-                            Console.WriteLine("要修改什么（图书名称,作者,图书类型,图书价格）");
-                            string input=Console.ReadLine();
-                            Console.WriteLine("请输入你要将其改成什么：");
-                            string input_change = Console.ReadLine();
-                            switch (input)
+                            string input = "";
+                            while (input != "0")
                             {
-                                case "图书名称":
-                                    item["图书名称"] = input_change;
-                                    break;
-                                case "作者":
-                                    item["作者"] = input_change;
-                                    break;
-                                case "图书类型":
-                                    item["图书类型"] = input_change;
-                                    break;
-                                case "图书价格":
-                                    item["图书价格"] = input_change;
-                                    break;
-                                default:
-                                    Console.WriteLine("输入有误！");
-                                    break;
+
+                                Console.WriteLine("你想要修改什么（图书名称,作者,图书类型,图书价格）退出输入0");
+                                input = Console.ReadLine();
+                                if (input == "0") return "退出成功";
+
+                                if (input != "0")
+                                {
+                                    Console.WriteLine("请输入你要将其改成什么：");
+                                    string input_change = Console.ReadLine();
+                                    switch (input)
+                                    {
+                                        case "图书名称":
+                                            item["图书名称"] = input_change;
+                                            break;
+                                        case "作者":
+                                            item["作者"] = input_change;
+                                            break;
+                                        case "图书类型":
+                                            item["图书类型"] = input_change;
+                                            break;
+                                        case "图书价格":
+                                            item["图书价格"] = input_change;
+                                            break;
+                                        default:
+                                            Console.WriteLine("输入有误！");
+                                            break;
+                                    }
+                                    var newJsonStr1 = JsonSerializer.Serialize(newJsonStr, JsonOpt);
+                                    File.WriteAllText(Path, newJsonStr1);
+                                }
+
                             }
-                            var newJsonStr1 = JsonSerializer.Serialize(newJsonStr, JsonOpt);
-                            File.WriteAllText(Path, newJsonStr1);
 
 
 
@@ -208,6 +218,93 @@ namespace ConsoleAppTest8_17
             return "更改失败";
         }
 
+        //外借
+        public string BookBorrow()
+        {
+            if (File.Exists(this.Path))
+            {
+                List<Dictionary<string, dynamic>> bookBorrowList = new List<Dictionary<string, dynamic>>();
+                var jsonStr = File.ReadAllText(this.Path);
+                bookBorrowList = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(jsonStr);
 
+
+                if (bookBorrowList != null)
+                {
+
+                    foreach (var item in bookBorrowList)
+                    {
+
+                        if (!item["是否外借"].GetBoolean())
+                        {
+                            Console.WriteLine("图书名称: " + item["图书名称"].ToString() + " -- " + "作者: " + item["作者"].ToString() + " -- " + "是否外借: " + item["是否外借"].ToString() + " -- " + "图书类型: " + item["图书类型"].ToString() + " -- " + "图书价格: " + item["图书价格"].ToString());
+                        }
+                    }
+                }
+            }
+            return "";
+        }
+        public string BookBorrow(string borrowBookName)
+        {
+            if (File.Exists(this.Path))
+            {
+                List<Dictionary<string, dynamic>> bookBorrowList = new List<Dictionary<string, dynamic>>();
+                var jsonStr = File.ReadAllText(this.Path);
+                bookBorrowList = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(jsonStr);
+
+
+                if (bookBorrowList != null)
+                {
+                    var borDic = bookBorrowList.Find(item => item["图书名称"].ToString() == borrowBookName);
+                    if (!string.IsNullOrEmpty(borrowBookName))
+                    {
+
+                        if (borDic["图书名称"].ToString() == borrowBookName && borDic["是否外借"].GetBoolean() == false)
+                        {
+                            borDic["是否外借"] = true;
+
+                            var Jsonlsit = JsonSerializer.Serialize(bookBorrowList, JsonOpt);
+                            File.WriteAllText(Path, Jsonlsit);
+                            return "借阅成功";
+                        }
+                        else
+                        {
+                            return "没有该图书或以被借阅";
+                        }
+
+
+                    }
+
+
+                }
+            }
+            return "";
+        }
+
+        //归还
+        public string BookBack(string backBookName)
+        {
+            if (File.Exists(this.Path))
+            {
+                List<Dictionary<string, dynamic>> backBooklist = new List<Dictionary<string, dynamic>>();
+                var jsonStr = File.ReadAllText(this.Path);
+                backBooklist = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(jsonStr);
+                foreach (var item in backBooklist)
+                {
+                    if (backBookName == item["图书名称"].ToString() && item["是否外借"].GetBoolean() == true)
+                    {
+                        item["是否外借"] = false;
+
+                        var jsonList = JsonSerializer.Serialize(backBooklist, JsonOpt);
+                        File.WriteAllText(this.Path, jsonList);
+                        return "归还成功";
+
+
+                    }
+                }
+
+
+            }
+            return "归还失败,没有该图书的外借记录";
+        }
     }
 }
