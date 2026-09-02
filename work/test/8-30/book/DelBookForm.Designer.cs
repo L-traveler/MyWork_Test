@@ -28,24 +28,26 @@
         /// </summary>
         private void InitializeComponent()
         {
-            panel1 = new AntdUI.Panel();
+            flowLayoutPanel1 = new AntdUI.In.FlowLayoutPanel();
             SuspendLayout();
             // 
-            // panel1
+            // flowLayoutPanel1
             // 
-            panel1.AutoScroll = true;
-            panel1.Location = new Point(62, 25);
-            panel1.Name = "panel1";
-            panel1.Size = new Size(485, 280);
-            panel1.TabIndex = 0;
-            panel1.Text = "panel1";
+            flowLayoutPanel1.AutoScroll = true;
+            flowLayoutPanel1.FlowDirection = FlowDirection.TopDown;
+            flowLayoutPanel1.Location = new Point(45, 28);
+            flowLayoutPanel1.Name = "flowLayoutPanel1";
+            flowLayoutPanel1.Size = new Size(507, 274);
+            flowLayoutPanel1.TabIndex = 1;
+            flowLayoutPanel1.Text = "flowLayoutPanel1";
+            flowLayoutPanel1.WrapContents = false;
             // 
             // DelBookForm
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(602, 448);
-            Controls.Add(panel1);
+            Controls.Add(flowLayoutPanel1);
             Name = "DelBookForm";
             Text = "DelBookForm";
             ResumeLayout(false);
@@ -53,6 +55,6 @@
 
         #endregion
 
-        private AntdUI.Panel panel1;
+        private AntdUI.In.FlowLayoutPanel flowLayoutPanel1;
     }
 }

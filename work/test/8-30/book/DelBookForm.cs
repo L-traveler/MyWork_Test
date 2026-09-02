@@ -33,11 +33,18 @@ namespace WinFormsAppTest8_25.book
                 bookInfo = new BookInfo(item.bookName, item.authorName, item.price, item.test);
                 bookInfo.del += BookInfo_del;
                 bookInfo.Tag= item.uid;
-                panel1.Controls.Add(bookInfo);
+                flowLayoutPanel1.Controls.Add(bookInfo);
                 
             });
-            
-            
+            var newJsonStr = JsonSerializer.Serialize(bookList, new JsonSerializerOptions()
+            {
+                AllowDuplicateProperties = true,
+                WriteIndented = true,
+                Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+            });
+            File.WriteAllText("./book.json", newJsonStr);
+
+
 
         }
 

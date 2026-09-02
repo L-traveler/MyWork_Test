@@ -30,20 +30,7 @@ namespace WinFormsAppTest8_25.MyCtrls
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string JsonStr = File.ReadAllText("./book.json");
-            List<BookClass> bookList = new List<BookClass>();
-            bookList = JsonSerializer.Deserialize<List<BookClass>>(JsonStr);
-            bookList.Remove(bookList.Find(item=>item.uid==this.Tag));
-
-            var newJsonStr = JsonSerializer.Serialize(bookList, new JsonSerializerOptions()
-            {
-                AllowDuplicateProperties = true,
-                WriteIndented = true,
-                Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
-            });
-            File.WriteAllText("./book.json", newJsonStr);
-
-
+         
             button1.Parent.Parent.Controls.Remove(button1.Parent);
             
             del?.Invoke(this.Tag.ToString());

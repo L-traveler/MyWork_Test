@@ -12,6 +12,7 @@ namespace WinFormsAppTest8_25.MyCtrls
     {
         string id=Guid.NewGuid().ToString();
         internal event Action<BookClass> addBook;
+        internal event Action<BookClass> editBook;
         public BookManager()
         {
             InitializeComponent();
@@ -26,8 +27,10 @@ namespace WinFormsAppTest8_25.MyCtrls
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             addBook.Invoke(new BookClass(id,bookName_input.Text,authorName_input.Text,price_inputNumber.Text,test_input.Text));
 
         }
+
     }
 }
