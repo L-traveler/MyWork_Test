@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\demo\\WinFormsAppTest9-12_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\jiemian\\zuhuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\zuhuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\jiemian\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\jiemian\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\mysql\\mysqlhander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\mysql\\mysqlhander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\mysql\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\mysql\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\class\\renret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\class\\renret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\jiemian\\retlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\retlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\jiemian\\retlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\retlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\jiemian\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|D:\\demo\\WinFormsAppTest9-12_02\\winformsapptest9-12_02\\jiemian\\zuhuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\zuhuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\jiemian\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|d:\\demo\\winformsapptest9-12_02\\winformsapptest9-12_02\\jiemian\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5BF7D1C-5021-A244-8547-159092650B7C}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA511F23-33E8-416D-9147-322E3CDF964A}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|D:\\demo\\WinFormsAppTest9-12_02\\winformsapptest9-12_02\\jiemian\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA511F23-33E8-416D-9147-322E3CDF964A}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA511F23-33E8-416D-9147-322E3CDF964A}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|D:\\demo\\WinFormsAppTest9-12_02\\winformsapptest9-12_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA511F23-33E8-416D-9147-322E3CDF964A}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA511F23-33E8-416D-9147-322E3CDF964A}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|D:\\demo\\WinFormsAppTest9-12_02\\winformsapptest9-12_02\\jiemian\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA511F23-33E8-416D-9147-322E3CDF964A}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA511F23-33E8-416D-9147-322E3CDF964A}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|D:\\demo\\WinFormsAppTest9-12_02\\winformsapptest9-12_02\\jiemian\\zuhuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA511F23-33E8-416D-9147-322E3CDF964A}|WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02.csproj|solutionrelative:winformsapptest9-12_02\\jiemian\\zuhuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZuHuan.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwFkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:45:53.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCar.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddCar.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\AddCar.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddCar.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\AddCar.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:26:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\Form1.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:46:12.358Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\Form1.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Form1.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwG8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:38:14.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\Properties\\Settings.settings",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Properties\\Settings.settings",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-09-16T12:46:11.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCar.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddCar.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\AddCar.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddCar.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\AddCar.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T05:45:53.451Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySqlHander.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\MySql\\MySqlHander.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\MySql\\MySqlHander.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\MySql\\MySqlHander.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\MySql\\MySqlHander.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:15:01.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mysql.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\MySql\\Mysql.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\MySql\\Mysql.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\MySql\\Mysql.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\MySql\\Mysql.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:55:07.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Class\\User.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\Class\\User.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Class\\User.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\Class\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T10:39:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RenRet.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Class\\RenRet.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\Class\\RenRet.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Class\\RenRet.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\Class\\RenRet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T02:16:19.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RetList.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\RetList.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\RetList.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\RetList.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\RetList.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:32:20.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RetList.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\RetList.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\RetList.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\RetList.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\RetList.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:31:31.876Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddUser.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\AddUser.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddUser.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\AddUser.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAvwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:36:02.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\UserList.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\UserList.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\UserList.cs",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\UserList.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:26:01.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserList.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\UserList.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\UserList.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\UserList.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\UserList.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:24:12.148Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ZuHuan.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T09:06:02.014Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ZuHuan.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\ZuHuan.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:34:18.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddUser.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddUser.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\AddUser.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddUser.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\AddUser.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:28:49.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddCar.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddCar.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\JieMian\\AddCar.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\JieMian\\AddCar.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\JieMian\\AddCar.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:21:06.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest9-12_02\\Form1.cs",
+              "ToolTip": "D:\\demo\\WinFormsAppTest9-12_02\\WinFormsAppTest9-12_02\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsAppTest9-12_02\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:13:23.197Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 866,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
