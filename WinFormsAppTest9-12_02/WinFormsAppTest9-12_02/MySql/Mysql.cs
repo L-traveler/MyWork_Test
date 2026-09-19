@@ -75,7 +75,6 @@ namespace WinFormsAppTest9_12_02.MySql
                         return false;
                     }
                     
-
                 }
             }
             return true;
